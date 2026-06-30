@@ -12,7 +12,7 @@ I build full-stack applications, AI-powered tools and digital products.
 
 ## 💫 About Me
 
-⚡ My main stack is **Next.js, Python, TypeScript and Tailwind CSS**
+⚡ My main stack is **Next.js, Python, TypeScript, React, Node js  and Tailwind CSS**
 
 🔭 I’m currently working on **full-stack projects**
 
